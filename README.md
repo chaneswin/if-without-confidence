@@ -1,4 +1,5 @@
-My Awesome Book
+沒自信又怎樣？
 =======
+驚嘆號有種掩飾，問號是否就有所不同？
+這份目錄在2015年4月左右就趨近完成，唯獨第一章節始終沒有令自己滿意的標題，跨到2016，這期間歷經的是對自己慘跌的挫折、對人的無法掌握、在商場的迷途再爬起來，更嚴重的是連自己都不了解的自己。最後我選擇繼續走下去，雖然即使不選擇一樣在走，選的是個方向，但其實更只能是個觀察？
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
